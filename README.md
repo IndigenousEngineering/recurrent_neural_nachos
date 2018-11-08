@@ -1,2 +1,3 @@
 # recurrent_neural_nachos
-tasty bite-size RNNs
+
+tasty, bite size RNNs / LSTMs
